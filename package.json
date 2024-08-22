@@ -4,7 +4,8 @@
   "description": "\"a node project to learn how to use express with mongo\"",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
