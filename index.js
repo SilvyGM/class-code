@@ -21,5 +21,5 @@ app.use("/products", productRoutes);
 app.use("/sales", salesRoutes);
 
 app.listen(3000, () => {
-  console.log("Server running");
+  console.log("Server corriendo");
 });
